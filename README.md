@@ -4,7 +4,7 @@ Este repositório contém exemplos de código em Python que aplicam conceitos da
 
 ## Estrutura do Repositório
 
-A estrutura do repositório foi organizada para proporcionar uma experiência de navegação eficiente e facilitar a revisão dos códigos. Cada bloco de atividade está representada por um tópico, dentro do qual você encontrará os repositórios dedicados às atividades desenvolvidas.
+A estrutura do repositório foi organizada para proporcionar uma experiência de navegação eficiente e facilitar a revisão dos códigos. Cada atividade está representada por um tópico, dentro do qual você encontrará o repositório dedicado à atividade desenvolvida.
 
 ## Atividades
 
@@ -13,46 +13,42 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
 - [Sistema de Avaliação Escolar]()
 <br>
 
-2. **Faça um programa que receba dois números e mostre o maior.**
+2. **Modifique o programa da 1ª. para exibir os números de 1 a 100.**
  
 - [Sistema de Identificação do Maior Número]()
 <br> 
 
-3. **Faça um programa que receba três números e mostre-os em ordem crescente.**
+3. **Modifique o programa da 2ª questão para exibir os números de 50 a 100.**
 
 - [Sistema de Ordenação Crescente]()
 <br>
  
-4. **Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem decrescente.**
+4. **Faça um programa para escrever a contagem regressiva do lançamento de um foguete. O programa deve imprimir 10, 9, 8 ..., 1, 0 e Fogo!!! Na tela.**
 
 - [Sistema de Ordenação Decrescente]()
 <br>
 
-5. **Faça um programa que receba o dia o mês e o ano e mostre nos seguintes formatos: dia/mês/ano - mês por extenso. (ex: 19/03/2020 -> 19 de março de 2020).**
+5. **Faça um programa para imprimir os números inteiros entre 1 e um valor digitado pelo usuário.**
 
 - [Sistema de Formatação de Datas]()
 <br>
 
-6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**<br>
+6. **Modifique o programa anterior para imprimir os números inteiros entre 1 e um valor digitado pelo usuário, mas, dessa vez, apenas os ímpares.**<br>
 
 - [Sistema de Ajuste Salarial]()
 <br>
 
-7. **Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.**<br>
+7. **Escreva um programa que exiba uma lista de opções (menu): Adição, subtração, divisão e multiplicação e sair. Imprima o resultado da operação escolhida entre dois números informados pelo usuário. Repita até que a opção sair seja escolhida. **<br>
    
 - [Sistema de Cálculo de Salário com Bonificação e Auxílio-Escola]()
 <br>
 
-8. **Faça um programa para resolver equações do 2º. grau. (utilize a função RAIZ para a raiz quadrada).**
+8. **Elabore um programa que calcule ∑ (𝑗), onde N é informado pelo usuário. Caso o usuário forneça um valor negativo, o programa deve apresentar a mensagem: “Digite apenas valores maiores ou iguais a zero.”**
     
 - [Calculadora de Equação Quadrática]()
 <br>
 
-9. **Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se o um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo escrever uma mensagem. Considerar que:**
+9. **Elabore um programa que deve calcular uma integral, na qual a função deve ser implementada no código fonte. O usuário deve fornecer os limites de integração da função considerada. Divida o intervalo em 10000 partições, e faça um somatório, avaliando a função e somando todos os resultados.   Exemplo: calcule a integral da função f(x) = 2x no intervalo de 0 a 1. Para calcular esta integral, deve ser implementada no código fonte e os intervalos devem ser fornecidos pelo usuário. O programa deve dividir o intervalo em 10000 partes, e atribuir a x o valor do limite inferior, ou seja 0.  A função deve ser avaliada para x = 0 e depois disso, para cada uma das 10000 partições feitas. Todas as vezes que x for avaliado, o resultado deve ser armazenado em um somatório. Este somatório é o resultado da integral.**
 
 - [Verificador e Classificador de Triângulos]()
 <br>
-
-10. **Faça um programa que receba:**
-
-- [Calculadora de Preço Total com Imposto para Produtos](https://github.com/devitruvius/algoritmo_calculadora_preco_produto_com_imposto/blob/main/algoritmo_calculadora_preco_produto_com_imposto.py)
