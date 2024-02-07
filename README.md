@@ -1,6 +1,6 @@
 # Estruturas de Repetição em Python
 
-Este repositório contém exemplos de código em Python que aplicam conceitos das estruturas de repetição. Os códigos foram desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O objetivo principal do cumprimento destas atividades foi fornecer uma prática sólida e consolidar os conceitos fundamentais relacionados aos loop statements em Python, aprofundando a compreensão e o aprimoramento das habilidades de programação nessa linguagem.
+Este repositório contém exemplos de código em Python que foram desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O objetivo principal do cumprimento destas atividades foi fornecer uma prática sólida e consolidar os conceitos fundamentais relacionados aos loop statements em Python, aprofundando a compreensão e o aprimoramento das habilidades de programação nessa linguagem.
 
 ## Estrutura do Repositório
 
