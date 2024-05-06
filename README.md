@@ -179,6 +179,25 @@ O repositório foi organizado para facilitar a navegação e a revisão dos cód
     ```
 <hr>
 
-## Fundamentos de Algoritmos
+## Navegação
+* **Atividade 1: Pseudocódigo**
+   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/FA-pseudocodigos-atividades)
 
-Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
+* **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
+   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/FA-python-conditional-statement)
+
+* **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
+   - [Repositório da Lista de Atividades III](#)
+
+* **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
+   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-python-lists)
+
+* **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
+   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-python-functions)
+
+* **Repositório Pai: Fundamentos de Algoritmos**
+   - [Fundamentos de Algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
+ 
+## Licença
+
+Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
