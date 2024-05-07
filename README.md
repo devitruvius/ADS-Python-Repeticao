@@ -187,7 +187,7 @@ O repositório foi organizado para facilitar a navegação e a revisão dos cód
    - [Repositório da Lista de Atividades II](https://github.com/devitruvius/FA-python-conditional-statement)
 
 * **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
-   - [Repositório da Lista de Atividades III](#)
+   - ***Repositório da Lista de Atividades III***
 
 * **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
    - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-python-lists)
